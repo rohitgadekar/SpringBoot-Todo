@@ -31,11 +31,25 @@ Clone the project
 
 ![App Screenshot](https://res.cloudinary.com/eaglestudiosindia/image/upload/v1689335043/github/Screenshot_from_2023-07-14_17-12-53_op0d7r.png)
 
+
+
+
+## Live
+
+- [Check This App](https://rohits-todo.up.railway.app/)
+
+
+## Authors
+
+- [@rohitgadekar](https://www.github.com/rohitgadekar)
+
+
 ## Feedback
 
-If you have any feedback, please reach out to me at rohitgadekar@outlook.in
+If you have any feedback, please reach out to us [here](rohitgadekar.com)
 
-## 🛠 Skills
 
-Javascript, HTML, CSS, React.Js, Redux
-Springboot, Java
+#
+
+![Logo](https://res.cloudinary.com/eaglestudiosindia/image/upload/v1701850470/personal/banner_lzporw.png)
+
