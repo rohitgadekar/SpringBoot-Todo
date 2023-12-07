@@ -46,7 +46,7 @@ Clone the project
 
 ## Feedback
 
-If you have any feedback, please reach out to us [here](rohitgadekar.com)
+If you have any feedback, please reach out to us [here](rohitgadekar.com/support)
 
 
 #
